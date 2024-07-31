@@ -33,8 +33,7 @@ Dataset link:
 https://drive.google.com/file/d/1Afrm6F7MTAGwW55HBZdnNaTjt2HXNkK3/view?us
 p=sharing
 
-After completion, upload the task on your github and fill the link in the below Google
-Form link.- https://forms.gle/z9yLHeoxvaQUXNHb8
+
 
 Resources to refer if you want:
 Youtube:
